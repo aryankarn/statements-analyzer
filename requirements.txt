@@ -1,0 +1,21 @@
+# PDF Processing libraries
+pdfplumber>=0.10.1
+camelot-py>=0.11.0
+extractable>=0.1.0
+opencv-python>=4.8.0
+pdf2csv>=0.2.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP and categorization
+transformers>=4.34.0
+torch>=2.0.0
+spacy>=3.7.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.2
