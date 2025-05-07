@@ -1,10 +1,3 @@
-"""
-PDF extraction module for bank statements.
-Extracts transaction data from PDF bank statements using a combination of:
-- pdfplumber: For text and layout analysis
-- extractable: For complex table extraction
-- pdf2csv: For structured output conversion
-"""
 import os
 import re
 from datetime import datetime

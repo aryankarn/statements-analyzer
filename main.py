@@ -1,8 +1,3 @@
-"""
-Main application for Bank Statement Analyzer.
-Orchestrates the agent pipeline for analyzing bank statements.
-"""
-
 import os
 import asyncio
 import argparse
